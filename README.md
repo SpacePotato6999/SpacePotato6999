@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SpacePotato6999
 - 👀 I’m interested in everything tech
 - 🌱 I’m currently learning web/app development and design
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at waltercabutihan14@gmail.com
 
 <!---
